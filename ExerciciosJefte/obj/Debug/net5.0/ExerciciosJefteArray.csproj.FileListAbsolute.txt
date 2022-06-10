@@ -1,0 +1,15 @@
+C:\Users\015238631\Documents\Projetos.net\ExerciciosJefte\ExerciciosJefte\bin\Debug\net5.0\ExerciciosJefteArray.exe
+C:\Users\015238631\Documents\Projetos.net\ExerciciosJefte\ExerciciosJefte\bin\Debug\net5.0\ExerciciosJefteArray.deps.json
+C:\Users\015238631\Documents\Projetos.net\ExerciciosJefte\ExerciciosJefte\bin\Debug\net5.0\ExerciciosJefteArray.runtimeconfig.json
+C:\Users\015238631\Documents\Projetos.net\ExerciciosJefte\ExerciciosJefte\bin\Debug\net5.0\ExerciciosJefteArray.runtimeconfig.dev.json
+C:\Users\015238631\Documents\Projetos.net\ExerciciosJefte\ExerciciosJefte\bin\Debug\net5.0\ExerciciosJefteArray.dll
+C:\Users\015238631\Documents\Projetos.net\ExerciciosJefte\ExerciciosJefte\bin\Debug\net5.0\ref\ExerciciosJefteArray.dll
+C:\Users\015238631\Documents\Projetos.net\ExerciciosJefte\ExerciciosJefte\bin\Debug\net5.0\ExerciciosJefteArray.pdb
+C:\Users\015238631\Documents\Projetos.net\ExerciciosJefte\ExerciciosJefte\obj\Debug\net5.0\ExerciciosJefteArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\015238631\Documents\Projetos.net\ExerciciosJefte\ExerciciosJefte\obj\Debug\net5.0\ExerciciosJefteArray.AssemblyInfoInputs.cache
+C:\Users\015238631\Documents\Projetos.net\ExerciciosJefte\ExerciciosJefte\obj\Debug\net5.0\ExerciciosJefteArray.AssemblyInfo.cs
+C:\Users\015238631\Documents\Projetos.net\ExerciciosJefte\ExerciciosJefte\obj\Debug\net5.0\ExerciciosJefteArray.csproj.CoreCompileInputs.cache
+C:\Users\015238631\Documents\Projetos.net\ExerciciosJefte\ExerciciosJefte\obj\Debug\net5.0\ExerciciosJefteArray.dll
+C:\Users\015238631\Documents\Projetos.net\ExerciciosJefte\ExerciciosJefte\obj\Debug\net5.0\ref\ExerciciosJefteArray.dll
+C:\Users\015238631\Documents\Projetos.net\ExerciciosJefte\ExerciciosJefte\obj\Debug\net5.0\ExerciciosJefteArray.pdb
+C:\Users\015238631\Documents\Projetos.net\ExerciciosJefte\ExerciciosJefte\obj\Debug\net5.0\ExerciciosJefteArray.genruntimeconfig.cache
